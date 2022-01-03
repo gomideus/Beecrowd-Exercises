@@ -1,6 +1,6 @@
 
 /*
-NOME: Gabriel Gomides Dutra Paiva
+NOME: Gabriel Gomides Dutra Paiva, Joao Gabriel Sena Fernandes
 UNIVERSIDADE: Puc Minas
 */
 
