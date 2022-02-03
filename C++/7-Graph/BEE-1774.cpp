@@ -1,18 +1,4 @@
 
-/*
-
-NOME: Gabriel Gomides Dutra Paiva
-PROFESSOR: Wladmir Cardoso Brandão
-ATIVIDADE: Uri 1774 - Routers
-
-Descrição da solução apresentada: 
-Para a solução da questão foi implementado o algoritmo de Kruskal, que é executado a partir de uma matriz de adjacência. 
-Foi utilizado o conceito de "Disjoint Sets" ( conjuntos de interseção vazia )  para inibir a formação de ciclo no grafo. Se dois elementos estão no mesmo subconjunto, não poderá ser criada uma aresta entre eles.
-Além disso foi aplicada a teoria de "Union" para unir os subconjuntos distintos.
-
-Complexidade do algorítmo de Kruskal: O(E log V)
-
-*/
 
 #include <string.h>
 #include <iostream>
