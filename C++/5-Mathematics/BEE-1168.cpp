@@ -1,13 +1,5 @@
 
-/*
-NOME: GABRIEL GOMIDES DUTRA PAIVA
-MATRICULA: 652593
-TURNO: MANHÃ
 
-ATIVIDADE: Led´s - C++
-Complexidade da Solução apresentada: O(n) -> Em que 'n' representa os números de entrada
-
-*/
 
 #include <string>
 #include <iostream>
