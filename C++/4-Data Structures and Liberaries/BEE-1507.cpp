@@ -1,9 +1,4 @@
 
-/*
-NOME: Gabriel Gomides Dutra Paiva
-MATRÍCULA: 652593
-TURNO: Manhã
-*/
 
 
 #include <iostream>
