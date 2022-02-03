@@ -1,15 +1,4 @@
 
-/*
-
-NOME: Gabriel Gomides Dutra Paiva
-PROFESSOR: Wladmir Cardoso Brandão
-ATIVIDADE: URI | 1082 - Componentes Conexos
-
-Descrição da solução apresentada: A solução foi o algorítmo DFS recomendado pelo professor em https://www.youtube.com/watch?v=9esCn0awd5k
-
-Complexidade do algorítmo: O(N), em que N é o número de testes a serem executados
-
-*/
 
 
 #include <bits/stdc++.h>
